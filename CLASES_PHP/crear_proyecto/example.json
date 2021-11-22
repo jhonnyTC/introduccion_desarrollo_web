@@ -1,0 +1,12 @@
+{
+    "name": "platzi",
+    "descripcion": "instituto online",
+    "course":{
+       "advance": ["PHP", "VUEjs"],
+       "vasic":["JSON", "HTML"]
+
+    },
+    "example":true
+
+}
+

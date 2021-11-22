@@ -1,0 +1,19 @@
+{
+    "name": "mojho/framework_estructura",
+    "description": "proyecto basico",
+    "authors": [
+        {
+            "name": "jhonny cervantes",
+            "email": "jhonnycer8@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\":"app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    }
+}
